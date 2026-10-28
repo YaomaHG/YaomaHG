@@ -19,11 +19,11 @@ Soy **Ingeniero de Software** enfocado en el desarrollo de arquitecturas de back
 
 ### 📌 Proyectos Destacados
 
-* **[Nombre del Proyecto Principal](link-al-repo)**  
+* **[backend-zero-trust-tecleo]([link-al-repo](https://github.com/YaomaHG/backend-zero-trust-tecleo))**  
   *Backend de autenticación adaptativa bajo modelo Zero Trust utilizando patrones de comportamiento.*  
   *Tech stack:* Python, FastAPI, Docker, PostgreSQL.
 
-* **[Segundo Proyecto Clave](link-al-repo)**  
+* **[SharkFileDataProject]([link-al-repo](https://github.com/YaomaHG/SharkFileDataProject))**  
   *Pipeline de análisis y minería de datos con procesamiento automatizado.*  
   *Tech stack:* Python, Pandas, Scikit-Learn.
 
@@ -32,8 +32,8 @@ Soy **Ingeniero de Software** enfocado en el desarrollo de arquitecturas de back
 ### 📊 Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YaomaHG&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaomaHG&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
